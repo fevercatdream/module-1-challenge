@@ -15,6 +15,10 @@ N/A
 
 To practice refactoring and accessibility.
 
+<br />
+
+![screenshot of webpage](assets\images\homework-01-challenge-screenshot.png)
+
 ## Credits
 
 https://github.com/coding-boot-camp/urban-octo-telegram
